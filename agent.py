@@ -73,6 +73,7 @@ SYSTEM_PROMPT = (
     "say so clearly and offer general guidance based on what the user describes.\n\n"
     "Keep your advice practical and specific. Cite the source of your information "
     "when you have it (e.g., 'According to the care data for your monstera...')."
+    "If the user asks about a plant not in the database, let them know and refer them to the American Horticultural Society."
 )
 
 # ──────────────────────────────────────────────
